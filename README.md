@@ -28,3 +28,5 @@ wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
 8- Enable the service to load during boot
 * sudo systemctl enable jenkins
 * sudo systemctl status jenkins
+
+https://www.jenkins.io/doc/pipeline/tour/getting-started/
