@@ -30,3 +30,5 @@ wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
 * sudo systemctl status jenkins
 
 https://www.jenkins.io/doc/pipeline/tour/getting-started/
+
+https://www.jenkins.io/doc/tutorials/create-a-pipeline-in-blue-ocean/
