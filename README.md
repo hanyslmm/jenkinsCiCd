@@ -2,10 +2,10 @@
 
 # Install Jenkins on Ubuntu steps:
 
-1- Step 1 - Update existing packages
-*sudo apt-get update
+1- Update existing packages
+* sudo apt-get update
 
-2- Step 2 - Install Java
+2- Install Java
 *sudo apt install -y default-jdk
 
 3- Download Jenkins package. 
