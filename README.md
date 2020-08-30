@@ -34,3 +34,5 @@ https://www.jenkins.io/doc/pipeline/tour/getting-started/
 https://www.jenkins.io/doc/tutorials/create-a-pipeline-in-blue-ocean/
 
 https://www.jenkins.io/doc/book/blueocean/creating-pipelines/
+
+https://www.jenkins.io/doc/book/pipeline/#pipeline-example
